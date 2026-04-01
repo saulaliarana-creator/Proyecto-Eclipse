@@ -1,2 +1,2 @@
-fatapi
+fastapi
 uvicorm
