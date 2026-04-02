@@ -1,6 +1,2 @@
 fastapi
-<<<<<<< HEAD
 uvicorn
-=======
-uvicorm
->>>>>>> cd90129 (Fix: corregido uvicorn)
